@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you build on this project, please credit the original idea and author."
+title: "Economy Visuals"
+abstract: "Interactive, installable explorer for public budget data, starting with India's Union Budget."
+authors:
+  - family-names: Bhusari
+    given-names: Sanman
+repository-code: "https://github.com/sanmanbhusari/economy-visuals"
+license: MIT
